@@ -1,3 +1,4 @@
+import HeroBlock from "./components/HeroBlock/HeroBlock";
 import Navbar from "./components/Navbar/Navbar";
 
 
@@ -7,6 +8,7 @@ export default function Home() {
     via-purple-900 to-slate-900">
      
       <Navbar />
+      <HeroBlock />
     </div>
   );
 }
