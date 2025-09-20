@@ -1,6 +1,7 @@
 import HeroBlock from "./components/HeroBlock/HeroBlock";
 import HowItWorks from "./components/HowItWorks/HowItWorks";
 import Navbar from "./components/Navbar/Navbar";
+import Pricing from "./components/Pricing/Pricing";
 
 
 export default function Home() {
@@ -11,6 +12,7 @@ export default function Home() {
       <Navbar />
       <HeroBlock />
       <HowItWorks/>
+      <Pricing/>
     </div>
   );
 }
