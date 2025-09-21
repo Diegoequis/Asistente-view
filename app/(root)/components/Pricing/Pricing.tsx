@@ -7,7 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 export default function Pricing() {
     return (
         <section className="py-24 bg-gradient-to-b front-purple-700/10
-    to-purple-900" id="pricing">
+    to-purple-900" id="Pricing">
 
             <div className="container mx-auto max-w-3xl">
                 <div className=" text-center mb-16">
