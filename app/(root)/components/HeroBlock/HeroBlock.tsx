@@ -7,7 +7,7 @@ import Link from "next/link";
 
 export default function HeroBlock() {
   return (
-    <section className="min-h-screen flex flex-col justify-center items-center">
+    <section className="min-h-screen flex flex-col justify-center items-center" >
         <div className="container mx-auto px-4 py-20">
             <h1 className="text-5xl md:text-6xl font-extrabold mb-6 tracking-tight 
             text-center flex  gap-2 flex-col items-center">Practice Real Interviews in

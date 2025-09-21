@@ -1,3 +1,4 @@
+import Cta from "./components/Cta/Cta";
 import HeroBlock from "./components/HeroBlock/HeroBlock";
 import HowItWorks from "./components/HowItWorks/HowItWorks";
 import Navbar from "./components/Navbar/Navbar";
@@ -13,6 +14,7 @@ export default function Home() {
       <HeroBlock />
       <HowItWorks/>
       <Pricing/>
+      <Cta/>
     </div>
   );
 }
